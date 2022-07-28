@@ -29,5 +29,9 @@
   "license": "MIT OR CC0-1.0",
   "files": [
     "template/"
-  ]
+  ],
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
+  }
 }
