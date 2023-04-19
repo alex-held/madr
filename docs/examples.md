@@ -37,7 +37,7 @@ Chosen option: "Plain JUnit5", because it is a standard framework and the featur
 
 This longer version of the above ADR adds pros and cons of the options, positive and negative consequences, as well as some more information.
 
-```markdown
+````markdown
 ---
 parent: Architectural Decisions
 nav_order: 9
@@ -62,7 +62,7 @@ Chosen option: "Plain JUnit5", because comes out best (see below).
 ### Consequences
 
 * Good, because tests are more readable
-* Goop, because more easy to write tests
+* Good, because more easy to write tests
 * Good, because more readable assertions
 * Bad, because more complicated testing leads to more complicated assertions
 
@@ -122,3 +122,4 @@ assertThat(markdownFormatter.format(source))
 ## More Information
 
 German comparison between Hamcrest and AssertJ: <https://www.sigs-datacom.de/uploads/tx_dmjournals/philipp_JS_06_15_gRfN.pdf>.
+````
