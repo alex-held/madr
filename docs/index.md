@@ -24,6 +24,7 @@ The template originated from capturing architectural decisions and developed to 
 
 ## News
 
+* 2023-04-05: Two new Medium stories ["How to create Architectural Decision Records (ADRs) — and how not to"](https://medium.com/olzzio/how-to-create-architectural-decision-records-adrs-and-how-not-to-93b5b4b33080) and ["How to review Architectural Decision Records (ADRs) — and how not to"](https://medium.com/olzzio/how-to-review-architectural-decision-records-adrs-and-how-not-to-2707652db196). Metaphors, patterns, anti-patterns, checklists applicable (but not limited) to MADRs. 
 * 2022-05-17: Release of MADR 3.0.0-beta.
   Besides improvement of the template, there was a renaming from "Markdown Architectural Decision Records" to "Markdown Any Decision Records" to follow the movement ["ADR = Any Decision Record? Architecture, Design and Beyond"](https://ozimmer.ch/practices/2021/04/23/AnyDecisionRecords.html).
   The acronym is still MADR.
